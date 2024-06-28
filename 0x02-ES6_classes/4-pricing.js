@@ -1,3 +1,4 @@
+import Currency from "./3-currency";
 /**
  * A class representing a Pricing.
  */
